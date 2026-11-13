@@ -1,0 +1,58 @@
+{
+ "board": "pangwanbi",
+ "stage": 7,
+ "unit": "원",
+ "asof": "2026-10",
+ "generated": "2026-11-13 23:13:34",
+ "source": "1~10월 누적 · 지점 합계 · 사업부 전체 (판관비 분석 판 1·2 구획)",
+ "key": [
+  {
+   "name": "영업이익",
+   "value": 2462889041,
+   "unit": "원",
+   "text": "24.6억"
+  },
+  {
+   "name": "판관비율",
+   "value": 39.7,
+   "unit": "%",
+   "text": "39.7%"
+  },
+  {
+   "name": "적자 지점",
+   "value": 4,
+   "unit": "곳",
+   "text": "4곳"
+  }
+ ],
+ "blocked": [
+  {
+   "what": "해운대점 영업적자",
+   "size": -13995051,
+   "unit": "원",
+   "size_text": "-14백만원",
+   "deadline": null
+  },
+  {
+   "what": "엑스코점 영업적자",
+   "size": -6043195,
+   "unit": "원",
+   "size_text": "-6백만원",
+   "deadline": null
+  },
+  {
+   "what": "수성점 영업적자",
+   "size": -3627402,
+   "unit": "원",
+   "size_text": "-4백만원",
+   "deadline": null
+  },
+  {
+   "what": "부산대점 영업적자",
+   "size": -1227861,
+   "unit": "원",
+   "size_text": "-1백만원",
+   "deadline": null
+  }
+ ]
+}
